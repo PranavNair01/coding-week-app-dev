@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "25219973645",
+    "project_id": "coding-week-aabf7",
+    "storage_bucket": "coding-week-aabf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25219973645:android:0617f09a788ccb428acb44",
+        "android_client_info": {
+          "package_name": "com.example.codingweek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25219973645-egnlk0onb22gn4ae32m0g0o1o9u7cs08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codingweek",
+            "certificate_hash": "0fd7aa8e153a36fadcb953ce89347d1b48da2bf4"
+          }
+        },
+        {
+          "client_id": "25219973645-78e1ml4g3bdd7cnfgp2hrc1n6corg2qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzuDtO1S0ZND_2nF9WN5vP1UN9hN3XcPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25219973645-78e1ml4g3bdd7cnfgp2hrc1n6corg2qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
